@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.10.0"
+gem "jekyll", "~> 4.4"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
@@ -49,3 +49,5 @@ gem "csv", "~> 3.3"
 gem "logger", "~> 1.7"
 
 gem "bigdecimal", "~> 4.1"
+
+gem "jekyll-bear-theme"
