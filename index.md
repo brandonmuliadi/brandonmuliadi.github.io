@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 
-Hi! I'm Brandon. I'm a second-year studying at UC Berkeley studying math. I consider myself a member of the effective altruism community, and I think not enough people are working on making AI go well. Outside of work, I enjoy reading manga, listening to Vocaloid and J-pop, watching competitive StarCraft 2, playing Secret Hitler, generally hanging out with friends, and infodumping. The clubs I'm most involved with are [EA Berkeley](https://eaberkeley.com/), [BASIS](https://eaberkeley.com), and [Cal Q&A](https://linktr.ee/calqanda). 
+Hi! I'm Brandon. I'm a second-year student at UC Berkeley studying math. I consider myself a member of the effective altruism community, and I think not enough people are working on making AI go well. Outside of work, I enjoy reading manga, listening to Vocaloid and J-pop, watching competitive StarCraft 2, playing Secret Hitler, generally hanging out with friends, and infodumping. The clubs I'm most involved with are [EA Berkeley](https://eaberkeley.com/), [BASIS](https://eaberkeley.com), and [Cal Q&A](https://linktr.ee/calqanda). 
 
 Some things I'm looking forward to right now:
 - Attending the Cal Q&A retreat
