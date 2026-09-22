@@ -78,7 +78,7 @@ defaults:
       layout: tagged
 
 # baseurl: ""
-permalink: /blog/:slug
+permalink: /posts/:slug
 timezone: America/New_York
 future: false
 
@@ -88,13 +88,16 @@ exclude:
 
 exclude: [vendor]
 
-Blog: /blog
-
 # Add general links to site pages here
 links:
+  Posts: /posts
+  Blogroll: /blogroll
   # Resume: /assets/resume.pdf
 
 
 # Add links for more focus here
 special_links:
   # "Search": https://duckduckgo.com
+  "Github": https://github.com/brandonmuliadi
+  "LinkedIn": https://www.linkedin.com/in/brandon-muliadi-132635330/
+  "Chat": https://calendly.com/brandon-muliadi/30min
