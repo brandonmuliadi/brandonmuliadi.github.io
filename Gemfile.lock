@@ -180,6 +180,7 @@ DEPENDENCIES
   jekyll (~> 4.4)
   jekyll-bear-theme
   jekyll-feed (~> 0.6)
+  jekyll-redirect-from
   kramdown-parser-gfm
   logger (~> 1.7)
   minima (~> 2.0)

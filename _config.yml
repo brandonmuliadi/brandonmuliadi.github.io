@@ -18,7 +18,7 @@ email: brandon.muliadi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Brandon Muliadi's website.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "brandonmuliadi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://brandonmuliadi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username: brandonmuliadi 
 
@@ -27,6 +27,7 @@ markdown: kramdown
 theme: jekyll-bear-theme
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -44,13 +45,8 @@ plugins:
 #   #########################
 # more settings
 
-plugins:
-  - jekyll-redirect-from
-
 whitelist:
   - jekyll-redirect-from
-
-markdown: kramdown
 
 compress_html:
   clippings: all
@@ -85,8 +81,7 @@ future: false
 exclude:
 - README.md
 - LICENSE.md
-
-exclude: [vendor]
+- vendor
 
 # Add general links to site pages here
 links:
