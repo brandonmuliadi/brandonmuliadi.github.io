@@ -5,8 +5,6 @@ description: Blogroll
 permalink: /blogroll
 ---
 
-# Blogroll
-
 ## Personal Blogs
 
 ### [Experimental History](https://www.experimental-history.com/)
