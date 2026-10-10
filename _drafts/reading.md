@@ -8,7 +8,6 @@ tags: [reading]
 
 - [Collective Effervescence](https://en.wikipedia.org/wiki/Collective_effervescence)
 
-
 - [Why Do We Need Human Mathematicians Anymore?](https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/)
 
 Ever since downloading Pleco on my phone, I've been able to get in a lot more Chinese reading.
