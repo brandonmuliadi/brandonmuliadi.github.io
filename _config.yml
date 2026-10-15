@@ -77,6 +77,7 @@ defaults:
 permalink: /posts/:slug
 timezone: America/New_York
 future: false
+Blog: /posts # used by the theme's tagged.html "Remove filter" link
 
 exclude:
 - README.md

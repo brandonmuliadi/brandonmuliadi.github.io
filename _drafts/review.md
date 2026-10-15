@@ -1,8 +1,22 @@
 ---
 layout: post
-title: "September 2026 Reading"
+title: "September + October 2026 Review"
 tags: [reading]
 ---
+
+# Music
+
+- [Giddy by heiakim](https://www.youtube.com/watch?v=kEKibNHwIsM)
+    - Bahasa Indonesia rahhhh
+    - TIL "taku" = "tak aku"
+    
+- [Cologne by beabadoobee](https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy?si=50cd3ed9061e4243)
+    - Absolute banger, almost as good as Glue Song
+    - Thank you reels for introducing this to me
+
+# Reading
+
+- ["I am an AI Safety Researcher"](https://www.lesswrong.com/posts/HekpnSkrt89tMm3Dc/i-am-an-ai-safety-researcher)
 
 - [EA Should Invest in Animal Liberation And Diet Change](https://forum.effectivealtruism.org/posts/imoynWhpY5AqxcaDG/ea-should-invest-in-animal-liberation-and-diet-change)
 
@@ -10,7 +24,7 @@ tags: [reading]
 
 - [Why Do We Need Human Mathematicians Anymore?](https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/)
 
-Ever since downloading Pleco on my phone, I've been able to get in a lot more Chinese reading.
+## Chinese Reading
 
 - [Do LLMs Really Have 'Beliefs'? ZJU-Alibaba Joint Lab Blog: AI Safety Moves from Surface Alignment to Deep Alignment](https://huggingface.co/blog/Alibaba-VELLDEPTH/beyond-surface-alignment-belief-en)
 

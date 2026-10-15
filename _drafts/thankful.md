@@ -24,3 +24,5 @@ Idea (and writing style) lifted wholesale from the peerless Dynomight's "Underra
 15. That humans can (and do) eat a huge variety of foods, thanks to being omnivores, our ways of food processing, and modern supply chains.
 16. That supply chains.
 17. That the normal distribution.
+18. That time; I'm glad the world isn't static and unchanging.
+19. [That light touch interventions don't change the world](regressiontothemeat.substack.com/p/i-am-grateful-that-light-touch-interventions).

@@ -22,6 +22,10 @@ Favorite posts:
 
 ### [Tynan](https://tynan.com/)
 
+## Animal Welfare
+
+### [regressiontothemeat](regressiontothemeat.substack.com)
+
 ## Chinese
 
 ### [ChinAI](https://chinai.substack.com/)
