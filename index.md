@@ -3,7 +3,7 @@ layout: default
 title: Index
 ---
 
-Hi! I'm Brandon. I'm a second-year math major at UC Berkeley. Outside of classes, my main commitments are working on the SPAR project [Alignment Pretraining for Model Welfare](https://sparai.org/projects/f26/recn0WCJI381Rn3ya/) mentored by Samuel Ratnam, and facilitating for the [Berkeley AI Safety Initative](https://berkeleyaisafety.com/)'s technical AI safety DeCal.
+Hi! I'm Brandon. I'm a second-year math major at UC Berkeley. Outside of classes, my main commitments are working on the SPAR project [Alignment Pretraining for Model Welfare](https://sparai.org/projects/f26/recn0WCJI381Rn3ya/) mentored by Samuel Ratnam, and facilitating the [Berkeley AI Safety Initative](https://berkeleyaisafety.com/)'s technical AI safety DeCal.
 
 
 <details markdown="1">
