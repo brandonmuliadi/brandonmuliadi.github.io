@@ -9,7 +9,9 @@ permalink: /blogroll
 
 ### [Experimental History](https://www.experimental-history.com/)
 
-A psychologist, stand-up comedian, and science reformer. I must confess that my favorite post from him is completely unrelated to any of those things:
+A psychologist, stand-up comedian, and science reformer. Very cool. Favorite posts:
+- [I’m so sorry for psychology’s loss, whatever it is](https://www.experimental-history.com/p/im-so-sorry-for-psychologys-loss)
+- [It's very weird to have a skull full of poison](https://www.experimental-history.com/p/its-very-weird-to-have-a-skull-full)
 - [How I became a British meme](https://www.experimental-history.com/p/how-i-became-a-british-meme)
 
 ### [Aceso Under Glass](https://acesounderglass.com/)
@@ -40,7 +42,7 @@ I really enjoy his takes and reflections on life. Favorite posts:
 
 ### [Tynan](https://tynan.com/)
 
-This is my North Star when it comes to side-questing. (I acknowledge that there is substantial privilege involved in being able to side-quest this much. Also, I'm not sure how to feel about how he was in *The Game*, but he seems to have a very happy marriage now, so good for him.) Some examples:
+My North Star when it comes to side-questing. (I acknowledge that there is substantial privilege involved in being able to side-quest this much. Also, I'm not sure how to feel about how he was in *The Game*, but he seems to have a very happy marriage now, so good for him.) Some examples:
 - [My Friends and I Bought an Island](https://tynan.com/island)
 - [Getting into Pinball](https://tynan.com/pinball)
 
