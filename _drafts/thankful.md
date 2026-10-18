@@ -26,3 +26,6 @@ Idea (and writing style) lifted wholesale from the peerless Dynomight's "Underra
 17. That the normal distribution.
 18. That time; I'm glad the world isn't static and unchanging.
 19. [That light touch interventions don't change the world](regressiontothemeat.substack.com/p/i-am-grateful-that-light-touch-interventions).
+1. That there seemingly are a [handful of positive exceptions to the hedonic treadmill](https://academic.oup.com/ej/article-abstract/118/529/F222/5088790), including among them marriage and having children[^1] (I promise I'm not a traditionalist, I just think this is cute).
+
+[^1]: And divorce, but that's not so cute

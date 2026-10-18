@@ -7,7 +7,7 @@ Hi! I'm Brandon. I'm a second-year math major at UC Berkeley. Outside of classes
 
 
 <details markdown="1">
-  <summary>Other things I'm working on:</summary>
+  <summary>Other things I'm working on</summary>
 
 - Learning Mandarin
 - Calisthenics
@@ -16,25 +16,26 @@ Hi! I'm Brandon. I'm a second-year math major at UC Berkeley. Outside of classes
 </details>
 
 <details markdown="1">
-  <summary>Miscellaneous interests:</summary>
+  <summary>Miscellaneous interests</summary>
 
 - Manga
 - Vocaloid and J-pop
 - Project Sekai
 - Deltarune
 - Competitive Starcraft 2
+- Reading blogs
 - Computer setups
-    - Feel free to tell me about how you use Arch btw
+    - Tell me about how you use Arch btw
 
 </details>
 
 <details markdown="1">
-  <summary>Things I'm looking forward to this semester:</summary>
+  <summary>Things I'm looking forward to this semester</summary>
 
 - Visiting [Cat Town](https://www.cattownoakland.org) (soon™)
-- Learning to make more dishes
-- Learning to do ring dips
-- Going vegan?
+- Cooking lots!
+- Training ring dips, and maybe learning handstands?
+- Going vegan
 
 </details>
 
