@@ -42,7 +42,7 @@ Talks about life and sometimes AI. Great vibes. The only blog on this list whose
 I really enjoy his takes and reflections on life. Kinda comfy. Favorite posts:
 - [mode collapse](https://mindslice.substack.com/p/mode-collapse)
 - [you have all these rules, and you think they'll save you](https://mindslice.substack.com/p/you-have-all-these-rules-and-you)
-I think it's really interesting that he experienced a trip so fun he had trouble sleeping afterwards because he would just lay in bed and be happy. This is a really nice mental image, and I hope I can experience something like this someday.
+    - I think it's really interesting that he experienced a trip so fun he had trouble sleeping afterwards because he would just lay in bed and be happy. This is a really nice mental image, and I hope I can experience something like this someday.
 
 ### [SerineMolecule](http://serine.me/)
 
