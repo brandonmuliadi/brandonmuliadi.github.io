@@ -16,42 +16,59 @@ A very enjoyable mix of posts on life and effortposts. Some of my favorites:
 
 ### [Dynomight](https://dynomight.net/)
 
-My favorite effortposter and listposter, in the history of effortposters and listposters. Some of my favorite Dynomight effortposts and listposts include:
-- [DumPy: NumPy expect it's OK if you're dum](https://dynomight.net/dumpy/)
-- [The big alcohol study that didn't happen: My primal scream of rage](https://dynomight.net/alcohol-trial/)
-- [Things to argue about over the holidays instead of politics](https://dynomight.net/arguments/) (and its sequels)
+My favorite effortposter and listposter in the history of effortposters and listposters. Some of my favorite Dynomight effortposts and listposts include:
+- [DumPy: NumPy expect it's OK if you're dum](https://dynomight.net/dumpy/) (holy effortpost)
 - [Underrated reasons to be thankful](https://dynomight.net/thanks) (and its many sequels)
+- [Things to argue about over the holidays instead of politics](https://dynomight.net/arguments/) (and its sequels)
 
 ### [Astral Codex Ten](https://www.astralcodexten.com/)
 
 ### [Experimental History](https://www.experimental-history.com/)
 
-A psychologist, stand-up comedian, and science reformer. Very cool. It feels very weird to choose some favorite posts here, since I think he has so many bangers, but here goes:
+Psychologist, stand-up comedian, and science reformer. Consistently high-quality. Some faves:
 - [It's very weird to have a skull full of poison](https://www.experimental-history.com/p/its-very-weird-to-have-a-skull-full)
+- [Incentives are for losers](https://www.experimental-history.com/p/incentives-are-for-losers)
 - [Sorry pal, this woo is irreducible](https://www.experimental-history.com/p/sorry-pal-this-woo-is-irreducible)
-- [I’m so sorry for psychology’s loss, whatever it is](https://www.experimental-history.com/p/im-so-sorry-for-psychologys-loss)
 
 ### [celeste-land](https://ceselder.substack.com/)
 
-Just good vibes, talks about life and AI safety. Terminally online vibes. This is the only blog on this list whose author I have met; she's very cool. I have a hard time picking favorite posts from celeste-land; it's really the vibes.
+Talks about life and sometimes AI. Great vibes. The only blog on this list whose author I have met; she's very cool. Favorite posts:
+- [The mind killers cousin](https://ceselder.substack.com/p/the-mind-killers-cousin)
+- [do what you love and you'll hate what you love](https://ceselder.substack.com/p/being-paid-to-play-video-games-fucking)
+- [do I want to "make it" or do I just want to be held](https://ceselder.substack.com/p/do-you-want-to-make-it-or-do-you)
 
 ### [a slice of my mind](https://mindslice.substack.com/)
 
-I really enjoy his takes and reflections on life. Favorite posts:
+I really enjoy his takes and reflections on life. Kinda comfy. Favorite posts:
 - [mode collapse](https://mindslice.substack.com/p/mode-collapse)
+- [you have all these rules, and you think they'll save you](https://mindslice.substack.com/p/you-have-all-these-rules-and-you)
+I think it's really interesting that he experienced a trip so fun he had trouble sleeping afterwards because he would just lay in bed and be happy. This is a really nice mental image, and I hope I can experience something like this someday.
+
+### [SerineMolecule](http://serine.me/)
+
+(Maybe this is closer to just a social media profile than a blog?) Linguistics, rationalist/EA stuff, great tumblr vibes, oddly addictive if you're exactly like me.
 
 ### [Tynan](https://tynan.com/)
 
-My North Star when it comes to side-questing. (I acknowledge that there is substantial privilege involved in being able to side-quest this much. Also, I'm not sure how to feel about how he was in *The Game*, but he seems to have a very happy marriage now, so good for him.) Some examples:
+My North Star when it comes to side-questing. I like seeing how really happy people do *it*. (I acknowledge that there is substantial privilege involved in being able to side-quest this much. Also, I'm not sure how to feel about how he was in *The Game*, but he seems to have a very happy marriage, so good for him?) Some examples:
 - [My Friends and I Bought an Island](https://tynan.com/island)
 - [Getting into Pinball](https://tynan.com/pinball)
+- [Building My E-Ink Tea Labeling System](https://tynan.com/tealabels/)
 
 ## Animal Welfare
 
 ### [regressiontothemeat](regressiontothemeat.substack.com)
 
+Favorite posts:
+- [I am grateful that light-touch interventions don't typically change the world](https://regressiontothemeat.substack.com/p/i-am-grateful-that-light-touch-interventions)
+- [Moral intuitions on killing vs. exploiting, cows vs. chickens](https://regressiontothemeat.substack.com/p/moral-intuitions-on-killing-vs-exploiting)
+    - The section on beef vs eggs is really good
+
 ## Chinese
 
 ### [ChinAI](https://chinai.substack.com/)
 
+
 ### [Cold Window Newsletter](https://coldwindow.substack.com/)
+A great blog filling an important niche—takes on modern Chinese literature for a Western audience. Unfortunately I haven't read any Chinese literature lately. 11th grade me would be so disappointed.
+

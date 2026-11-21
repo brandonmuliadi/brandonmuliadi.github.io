@@ -1,0 +1,6 @@
+/* Site-specific overrides, loaded after the theme's style.css. */
+
+/* Blockquotes are italic, so emphasis inside them flips back to roman. */
+blockquote em {
+    font-style: normal;
+}
