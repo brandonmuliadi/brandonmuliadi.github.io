@@ -67,6 +67,7 @@ You. Yes, you. You matter in this world. You are deserving of love and respect. 
 > over and over announcing your place\\
 > in the family of things.
 >
-> — Mary Oliver, *Wild Geese*
+> — Mary Oliver, "Wild Geese"
+{: .poem}
 
 </details>

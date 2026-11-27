@@ -4,3 +4,8 @@
 blockquote em {
     font-style: normal;
 }
+
+/* Poems are set upright, not in the theme's blockquote italics. */
+blockquote.poem {
+    font-style: normal;
+}
